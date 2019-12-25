@@ -6,6 +6,7 @@
     <Version>1.0.0</Version>
     <Authors>ubz8a</Authors>
     <Company>ubz8a</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
